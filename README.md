@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Demo : https://day-15-dom-calculator.netlify.appa/</p>
+<p align="left">Demo : https://day-15-dom-calculator.netlify.appa</p>
 
 ###
 
